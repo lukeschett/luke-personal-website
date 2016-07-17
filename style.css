@@ -1,9 +1,14 @@
 h1 {
 	font-size: 4em;
+	text-align: center;
 }
 
 ul,
 p {
 	color: #041F5F;
 	font-size: 1.3rem;
+}
+
+a{
+	text-align: center;
 }
