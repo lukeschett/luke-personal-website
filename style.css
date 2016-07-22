@@ -21,3 +21,17 @@ ul,
 p {
 	font-size: 1.3rem;
 }
+
+body {
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: 'Lora', serif;
+}
+
+a:link {
+	color: #000080;
+}
+
+a:visited {
+	color: #6d006d;
+}
